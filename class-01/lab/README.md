@@ -30,7 +30,19 @@ This flow chart will show an overview of the user experience from start to finis
 
 The follow diagram shows the code we use use to complete our program. (The chart is incomplete. Try to see if you can complete it.)
 
+### Chart (incomplete)
+
 ![chart](images/question-asker-chart-incomplete.jpg)
+
+### Chart (complete)
+
+This is the competed chart. Were you right?
+
+![chart](images/question-asker-chart-complete.jpg)
+
+## Using Lighthouse
+
+Lighthouse is used to check if your website is accessible to people with limited vision. There are ways to make your website easier to navigate for people using screen-readers or are color-blind. Use Lighthouse to automatically check if your website is compatible with screen-readers.
 
 - Using Lighthouse in the Chrome DevTools, analyze the accessibility of your application.
 - The following options to generate a Lighthouse report should be selected:
