@@ -20,6 +20,18 @@ Create a webpage that accepts user input and, based on that input, displays mess
 - Be creative and have fun with your questions/responses! They can be whatever you want so long as the input/output requirements are met.
 - In addition, for each response, create a console.log() message that indicates the nature of the question and the user's response, as we did in class.
 
+## UI/UX Flow Chart
+
+This flow chart will show an overview of the user experience from start to finish.
+
+![flow chart](images/question-asker-flow-chart.jpg)
+
+## Code Outline
+
+The follow diagram shows the code we use use to complete our program. (The chart is incomplete. Try to see if you can complete it.)
+
+![chart](images/question-asker-chart-incomplete.jpg)
+
 - Using Lighthouse in the Chrome DevTools, analyze the accessibility of your application.
 - The following options to generate a Lighthouse report should be selected:
   - Mode: Navigation
