@@ -1,33 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Question Asker</title>
 </head>
 <body>
-    <h1>Hello</h1>
-    <p>What is your name?</p>
+  <h1>Question Asker will ask a few questions.</h1>
+  <p>1. What is your name?</p>
+  <p>2. What is your favorite food?</p>
+  <p>3. What is your favorite color?</p>
+  
+  <script>
+    let yourName = prompt("What is your name?");
+    let yourFavoriteFood = prompt("What is your favorite food?")
+    let color = prompt("What is your favorite color?");
 
-    <p>Hello, <span id="name"></span>!</p>
+    alert(  "Your name is " + yourName + "\n"
+          + "Your favorite food is " + yourFavoriteFood + "\n"
+          + "Your favorite color is " + color
+    )
 
-    <p>What's your favorite food?</p>
-
-    <p>Your favorite food is <span id="food"></span>!</p>
-
-    <p>What's your favorite color?</p>
-    <p>Your favorite color is <span id="color"></span></p>
-
-    <script>
-        let name = prompt("What is your name?");
-        document.getElementById("name").innerHTML = name;
-        let food = prompt("What's your favorite food?");
-        document.getElementById("food").innerHTML = food;
-        let color = prompt("What's your favorite color?");
-        document.getElementById("color").innerHTML = color;
-
-     
-    </script>
+  </script>
 </body>
 </html>
