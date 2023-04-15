@@ -68,3 +68,9 @@ We can use `===` to check if two things are equal.
       console.log("You are a student.");
     }
 
+
+## Links
+
+Replit: https://replit.com/@rmccrear/Class-02-Lecture-If-Else#index.js
+
+Vocabulary Practice: https://quizlet.com/793042870/class-02-css-terms-flash-cards/
