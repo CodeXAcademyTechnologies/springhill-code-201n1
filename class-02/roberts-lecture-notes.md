@@ -74,3 +74,17 @@ We can use `===` to check if two things are equal.
 Replit: https://replit.com/@rmccrear/Class-02-Lecture-If-Else#index.js
 
 Vocabulary Practice: https://quizlet.com/793042870/class-02-css-terms-flash-cards/
+
+
+## GitHub Authorization
+
+After following the two steps below, you should be able to push to your GitHub repositories.
+
+Install GitHub CLI: https://github.com/cli/cli#installation
+
+    brew install gh
+
+Authorize your computer to connect to GitHub: https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git#github-cli
+
+    gh auth login
+
