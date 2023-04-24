@@ -4,6 +4,8 @@
 
 In this class you will be closing out on the "About Me" quiz project. You will have two other lab assignments due that will help you with CSS and learning a new git workflow using branches.
 
+* CSS Diner https://flukeout.github.io
+
 ## Class Outline
 
 - Code Review of previous day's lab assignment
@@ -12,10 +14,6 @@ In this class you will be closing out on the "About Me" quiz project. You will h
   - Function review
 - Lab preview and prep
 
-## Learning Objectives
-
-### Students will be able to
-
 #### Describe and Define
 
 - Image formats (JPG, GIF, PNG) and the strengths/weaknesses of each format.
@@ -23,9 +21,9 @@ In this class you will be closing out on the "About Me" quiz project. You will h
 
 #### Execute
 
-- Publish a static webpage on GitHub page from a specific branch.
-- Apply the use of images, color, and text formatting to style an HTML page.
-- Git repository management through the use of branches and merging.
+- Publish a static webpage on GitHub page from a specific branch. (5a: Use GitHub Pages)
+- Apply the use of images, color, and text formatting to style an HTML page. (5c: CSS Diner) 
+- Git repository management through the use of branches and merging. (5a and 5b)
 
 ## Notes
 
