@@ -1,5 +1,11 @@
 # JS Functions, Pair Programming, and Intro to CSS Layout
 
+## Links to In Class Replits
+https://replit.com/team/code-201-n1/Day-10-Truth-Expressions
+https://replit.com/team/code-201-n1/Day-10-if-else
+https://replit.com/team/code-201-n1/Day-10-whiletrue-break
+
+
 ## Overview
 
 In this class we will be learning about one of the fundamental building blocks in JavaScript: functions! We will also discuss and demonstrate pair programming, and CSS positioning.
