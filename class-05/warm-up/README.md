@@ -14,6 +14,8 @@ You would say:
 
 ## Javascript Fundamentals
 
+* https://replit.com/@rmccrear/Class-05-WARMUP
+
 ```
 let name = 'John';
 ```
@@ -59,51 +61,61 @@ console.log( nums[3] );
 ## CSS Selectors
 Ref: https://www.w3schools.com/cssref/css_selectors.asp
 
+Replit: https://replit.com/@rmccrear/Class-05-WARMUP-CSS#style.css
+
 Describe the elements these selectors would target
 
-```
-div
-```
 
 ```
-div.car
-```
-
-```
-.car
-```
-
-```
-#thing
-```
-
-```
-div > span
-```
-
-```
-div span
-```
-
-```
-div + span
-```
-
-```
-div ~ span
-```
-
-```
-input[type=text]
-```
-
-```
-div:hover
-```
-
-```
-div:after
-div:before
-```
+div{
+  
+}
 
 
+div.car{
+  
+}
+
+
+.car{
+  
+}
+
+
+#thing{
+  
+}
+
+div span{
+
+}
+
+div > span{
+
+}
+
+div ~ p{
+  
+}
+
+div + p{
+  
+}
+
+input[type=text]{
+  
+}
+
+.car:hover{
+  
+}
+
+.car:after {
+  
+}
+
+.car:before{
+  
+}
+
+```
