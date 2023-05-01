@@ -59,6 +59,17 @@ Color Pallets and Objects
     // changing objects
     primaryColors['red'] = '#C92121'; // different shade
 
+### References
+
+How to use any Google Font:
+
+https://fonts.google.com/
+
+https://developers.google.com/fonts/docs/css2
+
+HTML&CSS Chapter 12: Fonts
+
+
 ### Replits:
 
 https://replit.com/@rmccrear/Color-Pallet-Objects#index.js
@@ -79,7 +90,7 @@ Loops Review
 
 ### References
 
-HTML&CSS Chapter 6
+HTML&CSS Chapter 6: Tables
 
 ### Replits
 
