@@ -33,7 +33,39 @@ https://youtu.be/HkdAHXoRtos?t=292
 * https://replit.com/team/code-201-n1/Function-isNo
 
 
-## Class 7
+
+## Class 6
+
+We build the Salmon Cookies website. It was a static front page with a dynamic sales.html page with JavaScript.
+
+### Topics
+
+DOM manipulation with JavaScript
+
+Color Pallets and Objects
+
+    // object creation: 
+      let primaryColors = {
+      red: '#FF0000',
+      green: '#00FF00',
+      blue: '#0000FF'
+    };
+
+    // accessing objects
+    console.log("Red is " + primaryColors['red']);
+    console.log("Green is " + primaryColors['green']);
+    console.log("Blue is " + TODO);
+
+    // changing objects
+    primaryColors['red'] = '#C92121'; // different shade
+
+### Replits:
+
+https://replit.com/@rmccrear/Color-Pallet-Objects#index.js
+
+### Class 7
+
+  JavaScript Classes and HTML Tables
 
 ### Topics
 
@@ -44,6 +76,10 @@ Array Review
 Function Review
 
 Loops Review
+
+### References
+
+HTML&CSS Chapter 6
 
 ### Replits
 
