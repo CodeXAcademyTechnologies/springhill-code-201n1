@@ -31,3 +31,20 @@ https://youtu.be/HkdAHXoRtos?t=292
 ### Replits
 
 * https://replit.com/team/code-201-n1/Function-isNo
+
+
+## Class 7
+
+### Topics
+
+JavaScript Classes
+
+Array Review
+
+Function Review
+
+Loops Review
+
+### Replits
+
+https://replit.com/@rmccrear/Dark-Mode-Light-Mode-Class-Based?v=1
