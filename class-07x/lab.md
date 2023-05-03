@@ -1,6 +1,6 @@
 # Lab 07-X Cookie Sales Page
 
-Now that you have made a splash page for you shop, you must make a cookies sales page. For each product, create a link to a checkout page for that product. On the checkout page, the user can input how many cookies are desired, and a coupon code (if available) and the page will calculate the total price with tax and whether or not there is free shipping. This will be reported to the user by being written on the page.
+Now that you have made a splash page for your shop, you must make a cookies sales page. For each product, create a link to a checkout page for that product. On the checkout page, the user can input how many cookies are desired, and a coupon code (if available) and the page will calculate the total price with tax and whether or not there is free shipping. This will be reported to the user by being written on the page.
 
 ## Instructions
 
