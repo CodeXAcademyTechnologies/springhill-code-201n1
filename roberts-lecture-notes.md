@@ -101,11 +101,10 @@ https://replit.com/@rmccrear/Dark-Mode-Light-Mode-Class-Based?v=1
 
 [Cookie Checkout lab](class-07x/lab.md)
 
-## Slides
+### Slides
 
 [JavaScript 101](class-07x/Javascript-101.pdf)
 
-
-## Replit for today
+### Replit for prompt with if statements
 
 https://replit.com/@rmccrear/Live-Code-07X-Chat-Bot-with-conditionals
