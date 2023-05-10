@@ -122,3 +122,13 @@ https://replit.com/@rmccrear/Live-Code-07X-Chat-Bot-with-conditionals
 Replit for tax calculator
 
 https://replit.com/team/code-201-n1/Variables
+
+
+## Class Badgr Week
+
+## Topics: VS Code
+
+Link to example VS Code Slides https://docs.google.com/presentation/d/17gfekzWaKuvytAuzKK1Kx2-8UaChuH1KKMUFnWnV44A/edit?usp=sharing
+
+
+### Replits
