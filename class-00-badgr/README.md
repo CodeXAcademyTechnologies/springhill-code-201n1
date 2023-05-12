@@ -22,3 +22,21 @@ https://replit.com/team/code-201-n1/JavaScript-Operators-2
 https://replit.com/team/code-201-n1/JavaScript-Operators-3-Arrays
 
 https://replit.com/team/code-201-n1/JavaScript-Operators-4-Loops
+
+### Wednesday
+
+Ask prompt:
+https://replit.com/team/code-201-n1/JavaScript-Functions-1-Ask-Prompt
+### Thursday
+#### References
+
+https://www.w3schools.com/jsref/met_document_createelement.asp
+
+https://www.w3schools.com/jsref/met_document_queryselectorall.asp
+
+https://www.w3schools.com/jsref/prop_node_textcontent.asp
+
+https://www.w3schools.com/jsref/met_node_appendchild.asp
+#### Replit
+
+https://replit.com/team/code-201-n1/Functions-3-Loops-and-the-DOM
