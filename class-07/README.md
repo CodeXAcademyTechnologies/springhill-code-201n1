@@ -9,6 +9,8 @@ Naming variables is important. Changing the name of variables, helps us pass the
 
 Even though they have the same value, it might be easier to work with your data if it has a different name, or is a member of an object. This is a very important part of building computer programs.
 
+Watch the Objects section of this video for more: https://youtu.be/W6NZfCO5SIk?t=1808
+
 
 Go from this:
 
@@ -60,3 +62,12 @@ If you are repeating yourself in your code, that is fine for now. But it’s als
 The second is about document.getElementById(“#something-something”). We talked about it before, but it will be useful for the lab. So it’s a good review. https://youtu.be/t90K6HExEJo
 
 The third is document.createElement(“p”). We touched on this on Thursday when we placed cookies into the cookie box during the in-class Replit. This video goes into more detail about it. It also talks about forms, which we will talk about later. https://youtu.be/Nx2AhrCIlXE?t=26
+
+
+#### Here is a list of all the videos mentioned above.
+
+* Objects: https://youtu.be/W6NZfCO5SIk?t=1808
+* Loops: https://youtu.be/s9wW2PpJsmQ
+* document.getElementById() https://youtu.be/t90K6HExEJo
+* document.createElement() https://youtu.be/Nx2AhrCIlXE?t=26
+* Functions: https://youtu.be/W6NZfCO5SIk?t=2384
