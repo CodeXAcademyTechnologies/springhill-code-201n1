@@ -1,13 +1,5 @@
 # The DOM, Domain Modeling, and Introduction to Objects
 
-An important point of this class is to transform technical requirements into a workable plan. The instructions you get from you client or boss might be confusing or incomplete. It's your job to figure out how to make a plan for yourself.
-
-![How to plan](./whiteboard-diagrams/how-to-plan.jpg)
-
-![Plan your project](./whiteboard-diagrams/plan-your-project.jpg)
-
-![Code your project](./whiteboard-diagrams/code-your-project.jpg)
-
 ## Class Outline
 
 - Code review of previous class lab assignment

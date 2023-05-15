@@ -36,8 +36,6 @@ const dog = {
 
 [What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b){:target="_blank"}
 
-<!--
 ## Additional Resources
 
 ### Videos
- -->

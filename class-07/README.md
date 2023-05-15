@@ -1,38 +1,62 @@
-# Object-Oriented Programming with Constructor Functions: HTML Tables
+# Class 07 Introducing Objects, Classes, and HTML Tables
 
-## Overview 
+We will learn how Objects can help organize your variables, and do so much more!
 
-This class will introduce inheritance with constructor functions, plus adding another dimension to dynamic DOM rendering by creating a table instead of lists from stored array data.
 
-## Class Outline
+### Objects and member variables
 
-- Code Review of previous lab assignment
-- Code Demo
-  - Constructor functions
-  - Prototype methods
-  - Dom Manipuation with HTML tables
-- Lab preview and prep
+Naming variables is important. Changing the name of variables, helps us pass them from control structure to control structure. 
 
-## Learning Objectives
+Even though they have the same value, it might be easier to work with your data if it has a different name, or is a member of an object. This is a very important part of building computer programs.
 
-### Students will be able to
 
-#### Describe and Define
+Go from this:
 
-- Constructor functions
-- JavaScript "prototypal inheritance"
-- HTML `<table>` tag structure and usage
+    let sugarcookiePrice = 3.00;
+    let sugarcookieQty = 5;
+    let sugarcookieTotal = sugarcookiePrice * sugarcookieQty;
 
-#### Execute
+    let gingerbreadPrice = 5.00;
+    let gingerbreadQty = 4;
+    let gingerbreadTotal = gingerbreadPrice * gingerbreadQty;
 
-- Translate an object literal into a constructor function.
-- Use the ‘prototype’ property to extend the inheritable properties and methods of a constructor function.
-- Dynamically build a semantic HTML table with with JavaScript and render it to the DOM.
+To this:
 
-## Notes
+    let sugarcookie = {
+      price: 3.00,
+      qty: 5
+    }
+    sugarcookie.total = sugarcookie.price * sugarcookie.qty
 
-1. What is a Constructor function?
+    let gingerbread = {
+      price: 5.00,
+      qty: 4
+    }
+    gingerbread.total = gingerbread.price * gingerbread.qty
 
-1. How does the term `this` differ when reference an object literal versus a Constructor function?
+To this:
 
-1. What are some HTML elements that make up an HTML table?
+    let sugarcookie = {
+      price: 3.00,
+      qty: 5
+    }
+
+    let gingerbread = {
+      price: 5.00,
+      qty: 4
+    }
+
+    for(let c of [sugarcookie, gingerbread]) {
+      c.total = c.price * c.qty;
+    }
+
+### Videos
+
+Here are three videos from Badgr that will help with Lab 06-2 and Lab 07.
+
+The first is about Loops. Watch this on loop! It’s only 6 minutes.
+If you are repeating yourself in your code, that is fine for now. But it’s also a good opportunity to use a loop! https://youtu.be/s9wW2PpJsmQ
+
+The second is about document.getElementById(“#something-something”). We talked about it before, but it will be useful for the lab. So it’s a good review. https://youtu.be/t90K6HExEJo
+
+The third is document.createElement(“p”). We touched on this on Thursday when we placed cookies into the cookie box during the in-class Replit. This video goes into more detail about it. It also talks about forms, which we will talk about later. https://youtu.be/Nx2AhrCIlXE?t=26
