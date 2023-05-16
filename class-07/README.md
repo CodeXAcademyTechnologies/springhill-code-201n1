@@ -18,43 +18,41 @@ Watch the Objects section of this video for more: https://youtu.be/W6NZfCO5SIk?t
 
 Go from this:
 
+    // define the sugarcookie
     let sugarcookiePrice = 3.00;
     let sugarcookieQty = 5;
     let sugarcookieTotal = sugarcookiePrice * sugarcookieQty;
 
+    // defind the gingerbread
     let gingerbreadPrice = 5.00;
     let gingerbreadQty = 4;
     let gingerbreadTotal = gingerbreadPrice * gingerbreadQty;
 
+    // print them out
+    console.log(`Your total is ${sugarcookieTotal} for ${sugarcookieQty} Sugar Cookies`);
+    console.log(`Your total is ${gingerbreadTotal} for ${gingerbreadQty} Gingerbread Cookies`);
+
 To this:
 
     let sugarcookie = {
+      name: "Sugar Cookie",
       price: 3.00,
       qty: 5
     }
     sugarcookie.total = sugarcookie.price * sugarcookie.qty
 
     let gingerbread = {
+      name: "Gingerbread Cookie",
       price: 5.00,
       qty: 4
     }
     gingerbread.total = gingerbread.price * gingerbread.qty
 
-To this:
-
-    let sugarcookie = {
-      price: 3.00,
-      qty: 5
+    // print them out
+    for(let coookie of [sugarcookie, gingerbread]) {
+      console.log(`Your total is ${cookie.total} for ${cookie.qty} ${cookie.name}s`);
     }
 
-    let gingerbread = {
-      price: 5.00,
-      qty: 4
-    }
-
-    for(let c of [sugarcookie, gingerbread]) {
-      c.total = c.price * c.qty;
-    }
 
 ### Videos
 
