@@ -2,6 +2,10 @@
 
 We will learn how Objects can help organize your variables, and do so much more!
 
+### References
+
+* Replit for Day 26 [Replit](https://replit.com/@code-201-n1/createElementLoop) [GitHub](https://github.com/rmccrear/createElementLoop/tree/day-26)
+
 
 ### Objects and member variables
 
