@@ -154,3 +154,8 @@ https://replit.com/@code-201-n1/OOP1-Node#index.js:want
 https://replit.com/@code-201-n1/OPP-1-HTML#script.js
 
 
+### Live demo Dog Shelter
+
+[Dog Shelter App Version 1.0](../class-06/demo/domain-modeling-and-dom)
+
+![diagram for dog shelter app](./whiteboard-diagrams/dog-shelter-01.png)
