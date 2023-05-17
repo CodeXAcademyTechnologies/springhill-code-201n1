@@ -97,9 +97,6 @@ Has-many relationship
       firstName: "Robert",
       lastName: "McCreary"
       car: "Toyota Prius",
-      phoneType: "Moto Flip",
-      siblings: ["Virginia"],
-      cousins: ["Michael", "Elizabeth", "Mary"]
     }
 
 #### Restaurant has a _____.
@@ -149,3 +146,11 @@ Write a function that will say hello to the person.
     }
 
     greeting(person1);
+
+### Replits for Day 27
+
+https://replit.com/@code-201-n1/OOP1-Node#index.js:want
+
+https://replit.com/@code-201-n1/OPP-1-HTML#script.js
+
+
