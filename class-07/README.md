@@ -73,3 +73,79 @@ The third is document.createElement(“p”). We touched on this on Thursday whe
 * document.getElementById() https://youtu.be/t90K6HExEJo
 * document.createElement() https://youtu.be/Nx2AhrCIlXE?t=26
 * Functions: https://youtu.be/W6NZfCO5SIk?t=2384
+
+## Day 27
+
+### Outline for the day
+
+1. OOP 1 (Object Oriented Programming)
+2. Replit for OOP 1
+3. Cat rescue center demo
+4. Review Lab 06/07 wireframe
+
+### OOP
+
+Object Literals. 
+
+#### Person has a ____.
+
+Has-a relationship.
+
+Has-many relationship
+
+    person1 = {
+      firstName: "Robert",
+      lastName: "McCreary"
+      car: "Toyota Prius",
+      phoneType: "Moto Flip",
+      siblings: ["Virginia"],
+      cousins: ["Michael", "Elizabeth", "Mary"]
+    }
+
+#### Restaurant has a _____.
+
+    restaurant1 = {
+      name: "The Select", // one
+      vipCust: [
+        "Dee", 
+        "Bee", 
+        "Anya", 
+        "Cee"
+      ], // many
+      cuisine: "French"
+    }
+
+### Object Properties: 
+name, vipCust, cuisine.
+
+### Instance key/value pairs:
+
+name: "The Select"
+
+vipCust: [...]
+
+cuisine: French
+
+
+### String Interpolation
+
+    let name = "Robert";
+    let greeting = `Hello, ${name}. Welcome to Nashiville.`;
+
+    Hello Robert. Welcome to Nashvile.
+
+
+### Function for greeting
+
+I have a person object.
+
+I want to say hello to the person.
+
+Write a function that will say hello to the person.
+
+    function greeting(person) {
+      let message = `Hello, ${person.firstName}. Welcome to Nashiville.`;
+      alert(message); 
+    }
+
+    greeting(person1);
