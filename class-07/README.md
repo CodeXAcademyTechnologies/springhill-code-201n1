@@ -47,7 +47,7 @@ This is an example of how to create a constructor function with methods `woof` a
 
     // create a method for Dog
     Dog.protoype.woof = function() {
-      if(this.age<1) {
+      if(this.age<1) {  // if the dog is less that one
         console.log("woof, woof");
       } else {
         console.log("WOOF, WOOF");
@@ -56,7 +56,7 @@ This is an example of how to create a constructor function with methods `woof` a
 
     // create a method for Dog
     Dog.prototype.oneYearLater = function() {
-      this.age++;
+      this.age++; // increment the dog's age
     }
 
     // create an instance of Dog
