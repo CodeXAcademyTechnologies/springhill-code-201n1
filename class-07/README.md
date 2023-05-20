@@ -6,6 +6,7 @@ We will learn how Objects can help organize your variables, and do so much more!
 
 Instance of Car
 
+    // Create a new object
     car1 = {
       make: "Toyota",
       model: "Prius",
@@ -14,6 +15,8 @@ Instance of Car
 
 Prototypical Constructor
 
+    // Create a new constructor function
+    // This is like a "factory"
     function Car(make, model, miles) {
       this.make = make;
       this.model = model;
@@ -25,6 +28,40 @@ More Instances
     let car2 = Car("Honda", "Civic", 50000)
     let car3 = Car("Honda", "Accord", 30000)
 
+    console.log(`This car is a ${car2.make} ${car2.model} with ${car2.miles} miles on it.`);
+
+
+## Objects and Methods with this.
+
+This is an example of how to create a constructor function with methods `woof` and `oneYearLater`
+
+    // Create a new constructor function
+    // This is like a "factory"
+    function Dog(name, breed, age){
+      this.name = name;   // set the name property
+      this.breed = breed; // set the breed property
+      this.age = age;     // set the age property
+    }
+
+    // create a method for Dog
+    Dog.protoype.woof = function() {
+      if(dog.age<1) {
+        console.log("woof, woof");
+      } else {
+        console.log("WOOF, WOOF");
+      }
+    }
+
+    // create a method for Dog
+    Dog.prototype.oneYearLater = function() {
+      this.age++;
+    }
+
+    // create an instance of Dog
+    let dog1 = new Dog("Rover", "Pug", 0);
+    dog1.woof();          // "woof, woof"
+    dog1.oneYearLater();  // dog1.age === 1
+    dog1.woof();          // "WOOF, WOOF"
 
 ### References
 
@@ -32,7 +69,7 @@ More Instances
 
 * constructor functions w/ Mosh: https://www.youtube.com/watch?v=23AOrSN-wmI
 
-
+* Replit for practice with Car and Vehicle constructor functions. https://replit.com/@code-201-n1/Class-07-Object-Constructors-Node#index.js
 
 ### Objects and member variables
 
