@@ -4,7 +4,7 @@ We will learn how Objects can help organize your variables, and do so much more!
 
 ## Object Constructors and Prototypes and Instances
 
-Instance of Car
+Instance of a car object
 
     // Create a new object
     car1 = {
@@ -12,6 +12,7 @@ Instance of Car
       model: "Prius",
       miles: 100000,
     }
+    console.log(`This car is a ${car.make} ${car.model} with ${car.miles} miles on it.`);
 
 Prototypical Constructor
 
@@ -29,6 +30,7 @@ More Instances
     let car3 = Car("Honda", "Accord", 30000)
 
     console.log(`This car is a ${car2.make} ${car2.model} with ${car2.miles} miles on it.`);
+    console.log(`This car is a ${car3.make} ${car3.model} with ${car3.miles} miles on it.`);
 
 
 ## Objects and Methods with this.
