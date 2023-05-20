@@ -1,5 +1,16 @@
 # Code 201: Foundations of Software Development - Core Syllabus
 
+## Current Links
+
+[Class 07](./class-07/)
+
+[Demo for Dog Shelter](https://github.com/rmccrear/dog-shelter-demo)
+
+[String interpolation Video](https://youtu.be/mFOxd-opPbA)
+
+[Constructor functions w/ Mosh](https://www.youtube.com/watch?v=23AOrSN-wmI)
+
+
 ## Course Information
 
 - Course Level: Code 201
