@@ -2,9 +2,36 @@
 
 We will learn how Objects can help organize your variables, and do so much more!
 
+## Object Constructors and Prototypes and Instances
+
+Instance of Car
+
+    car1 = {
+      make: "Toyota",
+      model: "Prius",
+      miles: 100000,
+    }
+
+Prototypical Constructor
+
+    function Car(make, model, miles) {
+      this.make = make;
+      this.model = model;
+      this.miles = miles;
+    }
+
+More Instances
+
+    let car2 = Car("Honda", "Civic", 50000)
+    let car3 = Car("Honda", "Accord", 30000)
+
+
 ### References
 
-* Replit for Day 26 [Replit](https://replit.com/@code-201-n1/createElementLoop) [GitHub](https://github.com/rmccrear/createElementLoop/tree/day-26)
+* String interpolation (Microsoft): https://youtu.be/mFOxd-opPbA
+
+* constructor functions w/ Mosh: https://www.youtube.com/watch?v=23AOrSN-wmI
+
 
 
 ### Objects and member variables
@@ -147,6 +174,10 @@ Write a function that will say hello to the person.
 
     greeting(person1);
 
+### Replit for Day 26
+
+* Replit for Day 26 [Replit](https://replit.com/@code-201-n1/createElementLoop) [GitHub](https://github.com/rmccrear/createElementLoop/tree/day-26)
+
 ### Replits for Day 27
 
 https://replit.com/@code-201-n1/OOP1-Node#index.js:want
@@ -159,3 +190,5 @@ https://replit.com/@code-201-n1/OPP-1-HTML#script.js
 [Dog Shelter App Version 1.0](../class-06/demo/domain-modeling-and-dom)
 
 ![diagram for dog shelter app](./whiteboard-diagrams/dog-shelter-01.png)
+
+
