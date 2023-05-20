@@ -65,6 +65,8 @@ This is an example of how to create a constructor function with methods `woof` a
 
 ### References
 
+* Dog Shelter Demo: https://github.com/rmccrear/dog-shelter-demo
+
 * String interpolation (Microsoft): https://youtu.be/mFOxd-opPbA
 
 * constructor functions w/ Mosh: https://www.youtube.com/watch?v=23AOrSN-wmI
