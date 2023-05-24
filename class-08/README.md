@@ -4,7 +4,7 @@
 * 960px Layout
 * Wireframing
 * JavaScript Practice with Local and Global Variables
-* Flexbox demo
+* Flexbox demo https://github.com/rmccrear/flexbox-playground
 
 # Day 32
 
@@ -19,6 +19,8 @@
 * https://replit.com/team/code-201-n1/Scoping-and-Variables-in-a-Block
 * https://replit.com/team/code-201-n1/Loops-and-data-accessing-data
 * https://replit.com/team/code-201-n1/Accessing-an-array-with-loops-and-the-DOM
+
+* https://github.com/rmccrear/wireframe-960px
 
 * https://www.loremipzum.com/en/text-generator
 * https://placehold.co/
