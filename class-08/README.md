@@ -1,4 +1,47 @@
+# Day 31
+
+* Code review
+* 960px Layout
+* Wireframing
+* JavaScript Practice with Local and Global Variables
+* Flexbox demo
+
+# Day 32
+
+* Code Review
+* var vs let
+* Scoping and Variables in a block
+* Loops and saving/accessing data
+* 960 px fixed layout 
+
+## links
+
+* https://replit.com/team/code-201-n1/Scoping-and-Variables-in-a-Block
+* https://replit.com/team/code-201-n1/Loops-and-data-accessing-data
+* https://replit.com/team/code-201-n1/Accessing-an-array-with-loops-and-the-DOM
+
+* https://www.loremipzum.com/en/text-generator
+* https://placehold.co/
+* https://marketplace.visualstudio.com/items?itemName=JakeWilson.vscode-placeholder-images
+* https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum
+
+* For Loops: https://youtu.be/Eeh7pxtTZ3k?t=227
+* For Loops with Mosh: https://youtu.be/Eeh7pxtTZ3k?t=227
+
+## Tech words:
+
+* define or declare a variable.
+* assign a value to a variable.
+* fixed layout: a layout that doesn't change when you resize the window.
+* liquid layout: a layout that changes as you resized the window.
+* code block: the code between two curly braces.
+* variable scope: the scope where you can access a variable
+* global variables: variables with global scope (you can access them anywhere)
+* local variables: variables with local scope (you can access them only within the code block)
+
+
 # More Topics in CSS Layouts
+
 
 ## Overview
 
