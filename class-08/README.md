@@ -34,7 +34,7 @@
 
 * Replit for creating a single element and inserting it into the DOM: https://replit.com/@code-201-n1/Building-an-Element#script.js
 * Replit for creating an element with a render method: https://replit.com/@code-201-n1/HTML-Elements-and-render-functions-1#script.js
-*Replit for creating an element with a render method 2: https://replit.com/@code-201-n1/HTML-Elements-and-render-functions-2
+* Replit for creating an element with a render method 2: https://replit.com/@code-201-n1/HTML-Elements-and-render-functions-2
 
 
 ## Tech words:
