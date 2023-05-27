@@ -1,4 +1,15 @@
 # HTML Forms and JS Events
+## Overview
+
+In this class you will be learn JavaScript Events and how they can bring interactivity to your application. You will also learn how to construct HTML forms.
+
+## Class Outline
+
+- Code review of previous class lab assignment
+- Code demo
+  - Events and event listeners
+  - HTML forms
+- Lab preview and prep
 
 ## Making a form and submit button
 
@@ -22,23 +33,13 @@ After you create your form, there are three steps to hooking it up with JavaScri
 
 These three steps will cause the handleSubmit function to be called when the button is clicked.
 
+## Example
+
 Example for handleClick: https://github.com/rmccrear/simple-event-listener-demo
 
 Example for handleSubmit: https://github.com/rmccrear/form-demo-01
 
 Example for dog shelter: https://github.com/rmccrear/dog-shelter-demo
-
-## Overview
-
-In this class you will be learn JavaScript Events and how they can bring interactivity to your application. You will also learn how to construct HTML forms.
-
-## Class Outline
-
-- Code review of previous class lab assignment
-- Code demo
-  - Events and event listeners
-  - HTML forms
-- Lab preview and prep
 
 #### Describe and Define
 
