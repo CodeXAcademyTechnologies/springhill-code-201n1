@@ -1,5 +1,32 @@
 # HTML Forms and JS Events
 
+## Making a form and submit button
+
+https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form
+
+A form can be made in HTML. Each form has INPUT elements. INPUT elements can have types like "text", "password", or "number".
+
+Form INPUTS should have a "name" attribute.
+
+Forms INPUTS should also have a label for them.
+
+Forms should have a button with type "submit".
+
+## handleSubmit function
+
+After you create your form, there are three steps to hooking it up with JavaScript.
+
+1. Grab the form element form the DOM.
+2. Define the handleSubmit function.
+3. add a listener to the form element.
+
+These three steps will cause the handleSubmit function to be called when the button is clicked.
+
+Example for handleClick: https://github.com/rmccrear/simple-event-listener-demo
+
+Example for handleSubmit: https://github.com/rmccrear/form-demo-01
+
+
 ## Overview
 
 In this class you will be learn JavaScript Events and how they can bring interactivity to your application. You will also learn how to construct HTML forms.
@@ -11,10 +38,6 @@ In this class you will be learn JavaScript Events and how they can bring interac
   - Events and event listeners
   - HTML forms
 - Lab preview and prep
-
-## Learning Objectives
-
-### Students will be able to
 
 #### Describe and Define
 
