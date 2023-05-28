@@ -33,13 +33,27 @@ After you create your form, there are three steps to hooking it up with JavaScri
 
 These three steps will cause the handleSubmit function to be called when the button is clicked.
 
-## Example
+## Examples from lecture
 
 Example for handleClick: https://github.com/rmccrear/simple-event-listener-demo
 
 Example for handleSubmit: https://github.com/rmccrear/form-demo-01
 
 Example for dog shelter: https://github.com/rmccrear/dog-shelter-demo
+
+
+## Some review on DOM manipulation
+
+A few references about DOM manipulation. (For creating tables or lists in the DOM with JavaScript.)
+
+In the books: 
+
+* JavaScript and jQuery: Chapter 5
+* Head First JavaScript: Chapter 6
+
+Video Series from Badgr
+
+* https://www.youtube.com/watch?v=FIORjGvT0kk&list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V
 
 #### Describe and Define
 
