@@ -115,3 +115,10 @@ You can do a lot of things with loops and arrays. But arrays also have methods y
 [Video: Array methods](https://www.youtube.com/watch?v=HOc49cbm-68)
 
 [Replit: Array methods](https://replit.com/team/code-201-n1/Array-Methods-1)
+
+
+## JavaScript Review Slides
+
+Please review these slides. You can copy them and add them to your Badgr slide deck. Please ask questions about anything you see in them that you want to understand more deeply.
+
+[Link to slides](https://docs.google.com/presentation/d/17bU73pZre745DzZzZW7IzfX5NTjte0YwC-ESUcOjOuA/edit?usp=sharing)
