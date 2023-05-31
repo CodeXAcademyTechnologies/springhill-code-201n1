@@ -96,3 +96,16 @@ Replit for Bug Hunting: [https://replit.com/team/code-201-n1/NodeCookieShopWithB
 1. Check "Enable Show Develop menu in menu bar".
 
 1. From the Develop menu, select "Show Web Inspector".
+
+## Video about breakpoints
+
+[Udemy Course "Devtools Pro" Section 1 part 7 "Souces Tab and Basic Debugging"](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/learn/lecture/6871494#overview)
+
+[Youtube: Debugging JavaScript - Chrome DevTools 101](https://www.youtube.com/watch?v=H0XScE08hy8)
+
+
+## Array methods
+
+[Demo: Array methods](https://www.youtube.com/watch?v=HOc49cbm-68)
+
+[Replit: Array methods](https://replit.com/team/code-201-n1/Array-Methods-1)
