@@ -6,7 +6,6 @@ Learning how to **debug** your code will help you to better identify the errors 
 
 ## Class Outline
 
-- Code review of previous class lab assignment
 - Code demo
   - Debugging workflow
 - Lab preview and prep
@@ -14,6 +13,35 @@ Learning how to **debug** your code will help you to better identify the errors 
 ## Learning Objectives
 
 ### Students will be able to
+
+Understand error codes like:
+
+* SyntaxError: Unexpected end of input
+* ReferenceError: x is not defined
+* TypeError: Cannot read properties of undefined 
+
+TypeError example
+
+    let seattle = new Store();
+    let x = sattle.maxCust;
+    // ERROR MESSAGE:
+    // TypeError: Cannot read properties of undefined (reading 'sattle’)
+
+ReferenceError example
+
+    let aveCookies = 2.3;
+    let total = cust * avecookies;
+    // ERROR MESSAGE:
+    // ReferenceError: avecookies is not defined
+
+SyntaxError example 
+
+    let day = "Friday";
+    let s = `Today is ${day !!!`;
+    // ERROR MESSAGE:
+    // SyntaxError: Unexpected end of input
+
+Replit for Bug Hunting: [https://replit.com/team/code-201-n1/NodeCookieShopWithBugs](https://replit.com/team/code-201-n1/NodeCookieShopWithBugs)
 
 #### Describe and Define
 
