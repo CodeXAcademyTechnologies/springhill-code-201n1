@@ -99,6 +99,8 @@ Replit for Bug Hunting: [https://replit.com/team/code-201-n1/NodeCookieShopWithB
 
 ## Video about breakpoints
 
+You can debug with breakpoints in the browser. Breakpoints let you stop the code at a certain point, and examine what is going on.
+
 [Udemy Course "Devtools Pro" Section 1 part 7 "Souces Tab and Basic Debugging"](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/learn/lecture/6871494#overview)
 
 [Youtube: Debugging JavaScript - Chrome DevTools 101](https://www.youtube.com/watch?v=H0XScE08hy8)
@@ -106,6 +108,10 @@ Replit for Bug Hunting: [https://replit.com/team/code-201-n1/NodeCookieShopWithB
 
 ## Array methods
 
-[Demo: Array methods](https://www.youtube.com/watch?v=HOc49cbm-68)
+You can do a lot of things with loops and arrays. But arrays also have methods you can use, too.
+
+[Array Method Tutorial](https://javascript.info/array-methods)
+
+[Video: Array methods](https://www.youtube.com/watch?v=HOc49cbm-68)
 
 [Replit: Array methods](https://replit.com/team/code-201-n1/Array-Methods-1)
