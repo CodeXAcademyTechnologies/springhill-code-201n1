@@ -1,8 +1,8 @@
-# Audio/Video, Practical Info, and Getting the Vote Tracker Started
+# Class 11 - Audio/Video, Practical Info, and Getting the Vote Tracker Started
 
 ## Overview
 
-This class will be the start of a new project. You will also be learning a new CSS layout with flexbox.
+This class will be the start of a new project. You will also be learning a new CSS layout with grid.
 
 ## Class Outline
 
@@ -14,6 +14,29 @@ This class will be the start of a new project. You will also be learning a new C
 - Lab preview and prep
 
 ## Learning Objectives
+
+- Practice For Loops in a coding challenge
+  - FizzBuzz coding challenge
+  - google "fizzbuzz javascript"
+  - TODO loop through this array.
+  - if the number is even, push it to the even array.
+  - if the number is odd, push it to the odd array.
+- Create a personal learning plan
+  - spend time on the coding challenge
+  - figure out what you need to solve it.
+    - for loops
+    - if statements
+    - The `mod` operator `%`
+- Take a peak at the Lab
+- Review Event Listeners
+- Learn about Grid Layout
+- Code Demo - code along
+  - in Ubuntu
+  - make a new folder for projects
+    - projects-2
+  - clone the class repo
+  - create a Git Repo for All The Goats Voting
+  - Code along together
 
 ### Students will be able to
 
