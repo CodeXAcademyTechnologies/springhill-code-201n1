@@ -6,6 +6,63 @@ In this class you will be getting a preview of 301 curriculum and introduced to 
 
 ## Learning Objectives
 
+Review concepts from Code 201 and get ready for 301.
+
+### JavaScript Fundamentals
+
+    // declare and assign the string "John to" name.
+    let name = "John";  
+
+    console.log( typeof name );
+
+    const nums = [1, 2, 3, 4, 5];
+
+    for( let i=1; i<= 100; i++ ) {
+      console.log(i * i);
+    }
+
+### JavaScript Object
+
+
+    // creating an object literal
+    const john = {
+      first: "John",
+      last: "Cokos",
+      lastName: "Cookoo",
+      age: 50
+    }
+
+    // prints out the property of "first"
+    // it will be "John"
+    console.log(john.first);
+    
+    // ??? 
+    const keyword = "last";
+    console.log(john[keyword]);   
+    console.log(john["last"]); // the same as above
+    console.log(john.last);    // the same as above
+
+
+### Functions
+
+    // define a function
+    function sayHi(name) {
+      console.log('Hi', name);
+    }
+
+    // invoke or "call" a function
+    // call it with the string "Lyndsey"
+    sayHi("Lyndsey");
+
+    let names = ["Robert", "John", "Thomas"];
+    sayHi(names[0]);
+    sayHi(names[1]);
+    sayHi(names[2]);
+
+    for(let i=0; i<names.length; i++) {
+      sayHi(names[i]);
+    }
+
 ### Students will be able to
 
 As a result of completing Lecture 15 of Code 201, students will:
