@@ -36,7 +36,7 @@ Review concepts from Code 201 and get ready for 301.
     // it will be "John"
     console.log(john.first);
     
-    // ??? 
+    // access a property of an object with the bracket notation
     const keyword = "last";
     console.log(john[keyword]);   
     console.log(john["last"]); // the same as above
