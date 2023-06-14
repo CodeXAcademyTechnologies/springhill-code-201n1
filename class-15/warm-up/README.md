@@ -72,6 +72,8 @@ sayHi('Lyndsey');
 
 ## Constructors
 
+
+
 ```
 function Person(name) {
   this.fullName = name;
@@ -85,11 +87,30 @@ Person.prototype.sayMyName = function() {
 ```
 
 ```
+// create a new instance of Person.
 const john = new Person('John Cokos');
+
+// create a new instance of Person.
+const robert = new Person('Robert McCreary');
+
+robert.fullName === "Robert McCreary"; // true
 ```
 
 ```
 john.sayMyName();
+robert.sayMyName();
+```
+
+```
+// preview of 301.
+class Person {
+  constructor(name) {
+    this.fullName = name;
+  }
+  sayMyName(){
+    console.log(this.fullName.toUpperCase())
+  }
+}
 ```
 
 ## Javascript for Fun and Profit

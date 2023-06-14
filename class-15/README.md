@@ -63,6 +63,83 @@ Review concepts from Code 201 and get ready for 301.
       sayHi(names[i]);
     }
 
+## Constructors
+
+
+
+```
+function Person(name) {
+  this.fullName = name;
+}
+```
+
+```
+Person.prototype.sayMyName = function() {
+  console.log( this.fullName.toUpperCase() );
+}
+```
+
+```
+// create a new instance of Person.
+const john = new Person('John Cokos');
+
+// create a new instance of Person.
+const robert = new Person('Robert McCreary');
+
+robert.fullName === "Robert McCreary"; // true
+```
+
+```
+john.sayMyName();
+robert.sayMyName();
+```
+
+```
+// preview of 301.
+class Person {
+  constructor(name) {
+    this.fullName = name;
+  }
+  sayMyName(){
+    console.log(this.fullName.toUpperCase())
+  }
+}
+```
+
+## Javascript for Fun and Profit
+
+```
+console.log( greet('John') );
+
+function greet(name) { 
+  return sayHelloTo(name, 'Hi');
+}
+
+function sayHelloTo(person,greeting) {
+  return awkwardGreeting(greeting, person);
+}
+
+function awkwardGreeting(words,name) {
+  return `${name}, uh ... ${words}?`
+}
+```
+
+```
+// array functions
+"These are some words".split(' ')[3].toUpperCase().charAt(0)
+```
+
+```
+// string functions
+"Hello world".charAt(Math.sqrt(16));
+```
+
+```
+// putting things together...Try this in your Chrome Console!
+({ type: "a", href: "http://swapi.co", text: "Star Wars API" })["type href text".split(" ")[Math.max(2, 0)]].length
+```
+
+
 ### Students will be able to
 
 As a result of completing Lecture 15 of Code 201, students will:
