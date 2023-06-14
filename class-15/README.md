@@ -139,6 +139,46 @@ function awkwardGreeting(words,name) {
 ({ type: "a", href: "http://swapi.co", text: "Star Wars API" })["type href text".split(" ")[Math.max(2, 0)]].length
 ```
 
+## CSS Position
+
+Take a look at this Replit and play with the different types of position attributes.
+https://replit.com/team/code-201-n1/CSS-Position
+
+```
+img.float-left {
+  float: left;
+}
+```
+
+```
+/* This will stay on the screen even if you scroll up or down */
+.fixed-bottom-left {
+  display: fixed;
+  bottom: 50px;
+  left: 30px;
+}
+```
+
+```
+/* This will move as you scroll up or down */
+.fixed-bottom-left {
+  display: absolute;
+  bottom: 50px;
+  left: 30px;
+}
+```
+
+https://replit.com/team/code-201-n1/CSS-Position
+
+```
+/* This will change the meaning of height and width when padding is added */
+div {
+  box-sizing: border-box;
+} 
+```
+
+
+
 
 ### Students will be able to
 
